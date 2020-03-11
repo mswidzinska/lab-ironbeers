@@ -20,7 +20,10 @@
     p {
         line-height: 22px;
     }
-    
+    a {
+        text-decoration: none;
+        color:rgba(0, 0, 0, 0.808);
+    }
     .nav {
         color: #f7f9f9;
         background-color: #2081c3;
